@@ -24,4 +24,5 @@ This project uses a webcam to detect facial emotions in real-time and smoothly t
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/emotion-based-art.git
+   cd emotion-based-art
    python emotion.py
